@@ -9,6 +9,6 @@ plt.plot(epochs, val_loss, marker="s", label="Validation Loss")
 
 plt.xlabel("Epoch")
 plt.ylabel("Loss")
-plt.title("Training vs Validation Loss")
+plt.title("My First ML Visualization")
 plt.legend()
 plt.show()
